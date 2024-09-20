@@ -1,5 +1,5 @@
-export const API = "http://localhost:8001/posts";
-export const API_CATEGORIES = "http://localhost:8001/categories";
+export const API = "http://localhost:8000/posts";
+export const API_CATEGORIES = "http://localhost:8000/categories";
 
 export const ACTIONS = {
   GET_POSTS: "GET_POSTS",

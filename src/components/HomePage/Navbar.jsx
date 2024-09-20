@@ -46,7 +46,7 @@ const Navbar = () => {
   const pages = [
     { id: 1, title: "Posts", link: "/posts" },
     { id: 2, title: "Add Post", link: "/admin" },
-    { id: 3, title: "Bookmarks", link: "/bm" },
+    // { id: 3, title: "Bookmarks", link: "/bm" },
   ];
 
   const [anchorEl, setAnchorEl] = useState(null);
